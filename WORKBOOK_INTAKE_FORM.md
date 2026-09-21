@@ -4,7 +4,7 @@
 - Name: Renato Jacinto
 - Course / Section: EGN 321 / section to be confirmed
 - Assignment: Module 3, Assignment 3.2
-- Date: September 21, 2026
+- Date: September 20, 2026
 
 ## Workbook
 - Supplied file: `INVENTORY_REORDER_SANITIZED_EXAMPLE(1).xlsx`
