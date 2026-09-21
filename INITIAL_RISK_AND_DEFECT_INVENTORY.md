@@ -1,7 +1,7 @@
 # Initial Risk and Defect Inventory
 
 Workbook: `INVENTORY_REORDER_SANITIZED_EXAMPLE.xlsx`  
-Review date: September 21, 2026
+Review date: September 20, 2026
 
 These are investigation items. Formula text and missing workbook features are observed facts; their operational consequences and the intended business rules still require confirmation. No formulas were repaired.
 
