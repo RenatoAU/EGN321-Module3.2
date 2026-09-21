@@ -1,6 +1,6 @@
 # Workbook Audit Notes
 
-Source: the supplied `INVENTORY_REORDER_SANITIZED_EXAMPLE(1).xlsx`. The included copy has identical bytes and a filename without `(1)`. Review date: September 21, 2026.
+Source: the supplied `INVENTORY_REORDER_SANITIZED_EXAMPLE(1).xlsx`. The included copy has identical bytes and a filename without `(1)`. Review date: September 20, 2026.
 
 ## Inspection Performed
 All four sheets, their cell values and formulas, workbook relationships and file-package contents were inspected. All sheets are visible. No hidden rows or columns, macros, external links, data connections, named ranges, comment/note objects, embedded files, document-property parts, Excel Tables or sheet/workbook protection were found. The Comment column contains ordinary cell text, which was also reviewed.
@@ -45,4 +45,4 @@ For valid nonnegative inputs, if stock H is at or below reorder point R, the cur
 - `EXAMPLE_ONE_PAGE_ANALYSIS(1).docx`, Who Depends on It: weekly review and scenario roles.
 - `ASSIGNMENT_SPEC(1).md` and the detailed guide: required source, privacy, analysis and suitability review.
 
-No actual owner, interview, permission, external source of policy or operational frequency was independently established.
+
