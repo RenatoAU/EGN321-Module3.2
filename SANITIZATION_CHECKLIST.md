@@ -1,7 +1,7 @@
 # Sanitization and Confidentiality Checklist
 
 Workbook: `INVENTORY_REORDER_SANITIZED_EXAMPLE.xlsx`  
-Review date: September 21, 2026
+Review date: September 20, 2026
 
 Checked items below record the assisted inspection of this supplied classroom example. “Not present” means nothing needed removal in that category. Student permission and personal attestations remain open.
 
